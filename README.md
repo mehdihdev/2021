@@ -90,6 +90,7 @@ To add your own project below, just [edit](https://github.com/wwdc/2021/edit/mai
 |[Liam Rosenfeld](https://twitter.com/liamrosenfeld)|[GitHub](https://github.com/liamrosenfeld/SeamCarving)||Metal, CoreGraphics, Accelerate, SwiftUI|Submitted|
 |[Luis Genesius](https://github.com/lgenesius)|[GitHub](https://github.com/lgenesius/unity-in-diversity-wwdc21)||UIKit, AVFoundation, AVSpeechSynthesizer|Accepted|
 |[M. Bertan Tarakçıoğlu](https://medium.com/@bertan.tarakcioglu)|[GitHub](https://github.com/BertanT/The-ADHD-Exploration-WWDC21)||SwiftUI, Combine, PhotosUI|Accepted|
+|[Mehdi Hussain](https://twitter.com/mehdihdev)|[Github](https://github.com/mehdihdev/WWDC2021)|[Youtube](https://youtu.be/T32k8JW4J0g)|UIKit, SpriteKit, SceneKit|Accepted|
 |[Maiara Martins](https://github.com/MaiaraM)|[GitHub](https://github.com/MaiaraM/WWDC21-Ballet)|[Youtube](https://youtu.be/tkAKTPRCCf8)|SpriteKit, AVSpeechUtterance,AVSpeechSynthesizer,AVPlayer,UIKit|Accepted|
 |[Makwan Barzan](https://twitter.com/makwanbk)|[GitHub](https://github.com/m1bki0n/Kazhe)||SwiftUI, AVFoundation|Rejected|
 |[Maria Fernanda Azolin](https://github.com/azolinmf)|[GitHub](https://github.com/azolinmf/wwdc21-mixedFeelings)|[YouTube](https://www.youtube.com/watch?v=KZIUHNLthZg)|SpriteKit, UIKit|Accepted|
